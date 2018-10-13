@@ -1,0 +1,16 @@
+@import "./bootstrap.min.css";
+@import "./bootstrap.css";
+
+.p-4 {
+    padding: 1.5rem !important;
+  }
+
+  .colors {
+      color: black;
+  }
+  .btn-outline-primary {
+    color: #0B080A;
+    background-color: transparent;
+    background-image: none;
+    border-color: #0B080A'
+  }
